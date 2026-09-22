@@ -1,0 +1,5 @@
+**/*.canvas filter=git-crypt diff=git-crypt
+**/*.md filter=git-crypt diff=git-crypt
+
+.obsidian/** !filter !diff
+.gitattributes !filter !diff
